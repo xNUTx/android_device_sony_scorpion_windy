@@ -14,7 +14,7 @@
 # limitations under the License.
 
 TARGET_SCREEN_HEIGHT := 1920
-TARGET_SCREEN_WIDTH := 1200
+TARGET_SCREEN_WIDTH := 1080
 
 # Common Sony Resources
 $(call inherit-product, device/sony/common/resources.mk)
